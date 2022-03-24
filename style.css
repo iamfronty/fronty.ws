@@ -112,7 +112,7 @@ body {
 }
 
 .intro a:hover {
-    color: #000;
+    color: #F8F8F9;
 }
 
 .intro a:hover::before {
