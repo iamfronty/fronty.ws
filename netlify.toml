@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/donate"
+  to = "https://donatty.com/iamfronty"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
