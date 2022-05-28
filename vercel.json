@@ -1,0 +1,9 @@
+{
+    "redirects": [
+      { 
+        "source": "/donate",
+        "destination": "https://donatty.com/iamfronty", 
+        "permanent": true
+      }
+    ]
+  }
