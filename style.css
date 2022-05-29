@@ -4,6 +4,7 @@ body {
     color: #070706;
     user-select: none;
     font-size: calc(16 * 100vw / 1920);
+    letter-spacing: -0.05em;
 }
 
 #engine {
